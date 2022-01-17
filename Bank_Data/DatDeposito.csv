@@ -1,0 +1,16 @@
+NumDeposito,Fecha,ImporteDeposito,NombreSucursal,NombreCliente
+1,2021-09-25,550,Centro,Alicia
+2,2021-03-28,1200,Centro,Manuel
+3,2021-01-03,1000,Sureste,Ernesto
+4,2021-03-09,5000,Bajio,Julio
+5,2021-02-10,3200,Sureste,Mariana
+6,2021-06-11,1700,Sur,Maria
+7,2021-05-25,800,Sur,Juan Carlos
+8,2021-07-09,4100,Norte,Lourdes
+9,2021-06-11,10000,Norte,Norma
+10,2021-06-14,2500,Noroeste,Ignacio
+11,2021-03-01,3000,Centro,Javier
+12,2021-06-01,1000,Centro,German
+13,2021-02-05,7800,Centro,Carlos
+14,2021-03-09,6500,Sureste,Barbara
+15,2021-05-15,8000,Pacifico,Javier
